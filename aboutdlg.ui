@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>aboutdlg</class>
+ <widget class="QDialog" name="aboutdlg">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>683</width>
+    <height>272</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>About SPECTRA CIP</string>
+  </property>
+  <widget class="QLabel" name="l_aboutdlg">
+   <property name="geometry">
+    <rect>
+     <x>390</x>
+     <y>10</y>
+     <width>281</width>
+     <height>111</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;b&gt;SPECTRA CIP V2.0&lt;/b&gt;&lt;br&gt;&lt;br&gt;Developed by Gonzalo Cucho-Padin and Hildo Loayza-Loza&lt;br&gt;&lt;br&gt;Application built under QT Creator 2.8.1 (QT 5.1.1)&lt;br&gt;&lt;br&gt;Free Icons from &lt;a href=&quot;http://www.fatcow.com/free-icons&quot; target=&quot;_new&quot;&gt;FatCow&lt;/a&gt;</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignJustify|Qt::AlignVCenter</set>
+   </property>
+   <property name="wordWrap">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="l_grouppic">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>10</y>
+     <width>351</width>
+     <height>251</height>
+    </rect>
+   </property>
+   <property name="lineWidth">
+    <number>1</number>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap resource="Resources.qrc">:/images/APARATOS AGRICULTORES32.jpg</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>390</x>
+     <y>150</y>
+     <width>281</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Group of Unmmaned Aerial Vehicles (UAV) and Remote Sensing [Susan Palacios, Mario Balcazar, Hildo Loayza, Gonzalo Cucho and Luis Silva]&lt;br&gt;&lt;br&gt;Production Systems and the environment Sub-Program&lt;br&gt;&lt;br&gt;International Potato Center - Lima, Peru (2014)</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>
+   </property>
+   <property name="wordWrap">
+    <bool>true</bool>
+   </property>
+  </widget>
+ </widget>
+ <resources>
+  <include location="Resources.qrc"/>
+ </resources>
+ <connections/>
+</ui>
