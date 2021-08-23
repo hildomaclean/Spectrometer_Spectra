@@ -24,8 +24,8 @@ HEADERS  += headers/dialog.h \
     headers/thread.h \
     headers/aboutdlg.h
 
-FORMS    += dialog.ui \
-    aboutdlg.ui
+FORMS    += ui/dialog.ui \
+    ui/aboutdlg.ui
 
 
 INCLUDEPATH += "C:\Program Files (x86)\Ocean Optics\OmniDriverSPAM\include"
