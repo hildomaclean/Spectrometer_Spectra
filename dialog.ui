@@ -18,7 +18,7 @@
   </property>
   <property name="windowIcon">
    <iconset resource="Resources.qrc">
-    <normaloff>:/images/spectrum.png</normaloff>:/images/spectrum.png</iconset>
+    <normaloff>:/images/share/ProySpec/icons/spectrum.png</normaloff>:/images/share/ProySpec/icons/spectrum.png</iconset>
   </property>
   <widget class="QLabel" name="l_title">
    <property name="geometry">
@@ -75,7 +75,7 @@
     </property>
     <property name="icon">
      <iconset resource="Resources.qrc">
-      <normaloff>:/images/control_pause_blue.png</normaloff>:/images/control_pause_blue.png</iconset>
+      <normaloff>:/images/share/ProySpec/icons/control_pause_blue.png</normaloff>:/images/share/ProySpec/icons/control_pause_blue.png</iconset>
     </property>
     <property name="iconSize">
      <size>
@@ -104,7 +104,7 @@
     </property>
     <property name="icon">
      <iconset resource="Resources.qrc">
-      <normaloff>:/images/control_end_blue.png</normaloff>:/images/control_end_blue.png</iconset>
+      <normaloff>:/images/share/ProySpec/icons/control_end_blue.png</normaloff>:/images/share/ProySpec/icons/control_end_blue.png</iconset>
     </property>
     <property name="iconSize">
      <size>
@@ -133,7 +133,7 @@
     </property>
     <property name="icon">
      <iconset resource="Resources.qrc">
-      <normaloff>:/images/control_play_blue.png</normaloff>:/images/control_play_blue.png</iconset>
+      <normaloff>:/images/share/ProySpec/icons/control_play_blue.png</normaloff>:/images/share/ProySpec/icons/control_play_blue.png</iconset>
     </property>
     <property name="iconSize">
      <size>
@@ -162,7 +162,7 @@
     </property>
     <property name="icon">
      <iconset resource="Resources.qrc">
-      <normaloff>:/images/zoom_fit.png</normaloff>:/images/zoom_fit.png</iconset>
+      <normaloff>:/images/share/ProySpec/icons/zoom_fit.png</normaloff>:/images/share/ProySpec/icons/zoom_fit.png</iconset>
     </property>
     <property name="iconSize">
      <size>
@@ -194,7 +194,7 @@
     </property>
     <property name="icon">
      <iconset resource="Resources.qrc">
-      <normaloff>:/images/page_white_text_clean.png</normaloff>:/images/page_white_text_clean.png</iconset>
+      <normaloff>:/images/share/ProySpec/icons/page_white_text_clean.png</normaloff>:/images/share/ProySpec/icons/page_white_text_clean.png</iconset>
     </property>
     <property name="iconSize">
      <size>
@@ -265,7 +265,7 @@
     </property>
     <property name="icon">
      <iconset resource="Resources.qrc">
-      <normaloff>:/images/arrow_refresh.png</normaloff>:/images/arrow_refresh.png</iconset>
+      <normaloff>:/images/share/ProySpec/icons/arrow_refresh.png</normaloff>:/images/share/ProySpec/icons/arrow_refresh.png</iconset>
     </property>
     <property name="iconSize">
      <size>
@@ -294,7 +294,7 @@
     </property>
     <property name="icon">
      <iconset resource="Resources.qrc">
-      <normaloff>:/images/folder_vertical_document.png</normaloff>:/images/folder_vertical_document.png</iconset>
+      <normaloff>:/images/share/ProySpec/icons/folder_vertical_document.png</normaloff>:/images/share/ProySpec/icons/folder_vertical_document.png</iconset>
     </property>
     <property name="iconSize">
      <size>
@@ -370,7 +370,7 @@ to Save Files</string>
     </property>
     <property name="icon">
      <iconset resource="Resources.qrc">
-      <normaloff>:/images/lightbulb_delete.png</normaloff>:/images/lightbulb_delete.png</iconset>
+      <normaloff>:/images/share/ProySpec/icons/lightbulb_delete.png</normaloff>:/images/share/ProySpec/icons/lightbulb_delete.png</iconset>
     </property>
     <property name="iconSize">
      <size>
@@ -399,7 +399,7 @@ to Save Files</string>
     </property>
     <property name="icon">
      <iconset resource="Resources.qrc">
-      <normaloff>:/images/lightbulb_off.png</normaloff>:/images/lightbulb_off.png</iconset>
+      <normaloff>:/images/share/ProySpec/icons/lightbulb_off.png</normaloff>:/images/share/ProySpec/icons/lightbulb_off.png</iconset>
     </property>
     <property name="iconSize">
      <size>
@@ -641,7 +641,7 @@ Manual Zero</string>
     </property>
     <property name="icon">
      <iconset resource="Resources.qrc">
-      <normaloff>:/images/lightbulb_new.png</normaloff>:/images/lightbulb_new.png</iconset>
+      <normaloff>:/images/share/ProySpec/icons/lightbulb_new.png</normaloff>:/images/share/ProySpec/icons/lightbulb_new.png</iconset>
     </property>
     <property name="iconSize">
      <size>
@@ -687,7 +687,7 @@ Manual Zero</string>
     </property>
     <property name="icon">
      <iconset resource="Resources.qrc">
-      <normaloff>:/images/auto_adjustment.png</normaloff>:/images/auto_adjustment.png</iconset>
+      <normaloff>:/images/share/ProySpec/icons/auto_adjustment.png</normaloff>:/images/share/ProySpec/icons/auto_adjustment.png</iconset>
     </property>
     <property name="iconSize">
      <size>
@@ -733,7 +733,7 @@ Adjustment</string>
     </property>
     <property name="icon">
      <iconset resource="Resources.qrc">
-      <normaloff>:/images/save_raw.png</normaloff>:/images/save_raw.png</iconset>
+      <normaloff>:/images/share/ProySpec/icons/save_raw.png</normaloff>:/images/share/ProySpec/icons/save_raw.png</iconset>
     </property>
     <property name="iconSize">
      <size>
@@ -789,7 +789,7 @@ Raw Data</string>
     </property>
     <property name="icon">
      <iconset resource="Resources.qrc">
-      <normaloff>:/images/layer_save.png</normaloff>:/images/layer_save.png</iconset>
+      <normaloff>:/images/share/ProySpec/icons/layer_save.png</normaloff>:/images/share/ProySpec/icons/layer_save.png</iconset>
     </property>
     <property name="iconSize">
      <size>
@@ -818,7 +818,7 @@ Raw Data</string>
     </property>
     <property name="icon">
      <iconset resource="Resources.qrc">
-      <normaloff>:/images/spectrum_save.png</normaloff>:/images/spectrum_save.png</iconset>
+      <normaloff>:/images/share/ProySpec/icons/spectrum_save.png</normaloff>:/images/share/ProySpec/icons/spectrum_save.png</iconset>
     </property>
     <property name="iconSize">
      <size>
@@ -887,7 +887,7 @@ Acquisition</string>
     </property>
     <property name="icon">
      <iconset resource="Resources.qrc">
-      <normaloff>:/images/layer_redraw.png</normaloff>:/images/layer_redraw.png</iconset>
+      <normaloff>:/images/share/ProySpec/icons/layer_redraw.png</normaloff>:/images/share/ProySpec/icons/layer_redraw.png</iconset>
     </property>
     <property name="iconSize">
      <size>
@@ -956,7 +956,7 @@ Reference</string>
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap resource="Resources.qrc">:/images/mini-logo-bm2.png</pixmap>
+    <pixmap resource="Resources.qrc">:/images/share/ProySpec/icons/mini-logo-bm2.png</pixmap>
    </property>
   </widget>
   <widget class="QLabel" name="l_sponsored">
@@ -991,7 +991,7 @@ Reference</string>
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap resource="Resources.qrc">:/images/logo_cip.png</pixmap>
+    <pixmap resource="Resources.qrc">:/images/share/ProySpec/icons/logo_cip.png</pixmap>
    </property>
   </widget>
   <widget class="QPushButton" name="pb_about">
@@ -1011,7 +1011,7 @@ Reference</string>
    </property>
    <property name="icon">
     <iconset resource="Resources.qrc">
-     <normaloff>:/images/information.png</normaloff>:/images/information.png</iconset>
+     <normaloff>:/images/share/ProySpec/icons/information.png</normaloff>:/images/share/ProySpec/icons/information.png</iconset>
    </property>
    <property name="iconSize">
     <size>

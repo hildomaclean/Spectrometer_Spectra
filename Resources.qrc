@@ -1,24 +1,24 @@
 <RCC>
     <qresource prefix="/images">
-        <file>arrow_refresh.png</file>
-        <file>control_pause_blue.png</file>
-        <file>control_play_blue.png</file>
-        <file>spectrum.png</file>
-        <file>control_end_blue.png</file>
-        <file>zoom_fit.png</file>
-        <file>folder_vertical_document.png</file>
-        <file>lightbulb_off.png</file>
-        <file>layer_save.png</file>
-        <file>spectrum_save.png</file>
-        <file>layer_redraw.png</file>
-        <file>lightbulb_new.png</file>
-        <file>lightbulb_delete.png</file>
-        <file>page_white_text_clean.png</file>
-        <file>auto_adjustment.png</file>
-        <file>save_raw.png</file>
-        <file>mini-logo-bm2.png</file>
-        <file>logo_cip.png</file>
-        <file>information.png</file>
-        <file>APARATOS AGRICULTORES32.jpg</file>
+        <file>share/ProySpec/icons/arrow_refresh.png</file>
+        <file>share/ProySpec/icons/control_pause_blue.png</file>
+        <file>share/ProySpec/icons/control_play_blue.png</file>
+        <file>share/ProySpec/icons/spectrum.png</file>
+        <file>share/ProySpec/icons/control_end_blue.png</file>
+        <file>share/ProySpec/icons/zoom_fit.png</file>
+        <file>share/ProySpec/icons/folder_vertical_document.png</file>
+        <file>share/ProySpec/icons/lightbulb_off.png</file>
+        <file>share/ProySpec/icons/layer_save.png</file>
+        <file>share/ProySpec/icons/spectrum_save.png</file>
+        <file>share/ProySpec/icons/layer_redraw.png</file>
+        <file>share/ProySpec/icons/lightbulb_new.png</file>
+        <file>share/ProySpec/icons/lightbulb_delete.png</file>
+        <file>share/ProySpec/icons/page_white_text_clean.png</file>
+        <file>share/ProySpec/icons/auto_adjustment.png</file>
+        <file>share/ProySpec/icons/save_raw.png</file>
+        <file>share/ProySpec/icons/mini-logo-bm2.png</file>
+        <file>share/ProySpec/icons/logo_cip.png</file>
+        <file>share/ProySpec/icons/information.png</file>
+        <file>share/ProySpec/icons/APARATOS AGRICULTORES32.jpg</file>
     </qresource>
 </RCC>
