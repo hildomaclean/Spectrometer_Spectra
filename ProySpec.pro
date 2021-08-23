@@ -28,8 +28,11 @@ FORMS    += dialog.ui \
 
 
 INCLUDEPATH += "C:\Program Files (x86)\Ocean Optics\OmniDriverSPAM\include"
-INCLUDEPATH += $$quote(C:\Program Files (x86)\Java\jdk1.7.0_55\include)
-INCLUDEPATH += $$quote(C:\Program Files (x86)\Java\jdk1.7.0_55\include\win32)
+INCLUDEPATH += $$quote(C:\Program Files\Java\jdk1.8.0_91\include)
+INCLUDEPATH += $$quote(C:\Program Files\Java\jdk1.8.0_91\include\win32)
+
+#INCLUDEPATH += $$quote(C:\Program Files (x86)\Java\jdk1.7.0_55\include)
+#INCLUDEPATH += $$quote(C:\Program Files (x86)\Java\jdk1.7.0_55\include\win32)
 
 
 LIBS+= "C:\Program Files (x86)\Ocean Optics\OmniDriverSPAM\OOI_HOME\SPAM32.dll"
