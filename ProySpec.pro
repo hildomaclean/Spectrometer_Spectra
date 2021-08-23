@@ -12,16 +12,17 @@ TARGET = ProySpec
 TEMPLATE = app
 
 
-SOURCES += main.cpp\
-        dialog.cpp \
-    qcustomplot.cpp \
-    thread.cpp \
-    aboutdlg.cpp
+SOURCES += src/main.cpp\
+        src/dialog.cpp \
+    src/qcustomplot.cpp \
+    src/thread.cpp \
+    src/aboutdlg.cpp
 
-HEADERS  += dialog.h \
-    qcustomplot.h \
-    thread.h \
-    aboutdlg.h
+INCLUDEPATH += headers
+HEADERS  += headers/dialog.h \
+    headers/qcustomplot.h \
+    headers/thread.h \
+    headers/aboutdlg.h
 
 FORMS    += dialog.ui \
     aboutdlg.ui
