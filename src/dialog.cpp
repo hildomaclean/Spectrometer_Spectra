@@ -21,10 +21,10 @@ Dialog::Dialog(QWidget *parent) :
     m_bSpecAcqPressed = false;
 
     //Initialize Font Title
-    QFont font = ui->l_title->font();
-    font.setPointSize(16);
-    font.setBold(true);
-    ui->l_title->setFont(font);
+    //QFont font = ui->l_title->font();
+    //font.setPointSize(16);
+    //font.setBold(true);
+    //ui->l_title->setFont(font);
 
     // Initialize Thread
     mythread = new Thread(this);
